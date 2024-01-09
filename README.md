@@ -16,3 +16,5 @@ npm start
 
 You will find the postman collection to run the API.
 
+For Database we have used MongoDB.
+
