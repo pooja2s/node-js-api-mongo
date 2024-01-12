@@ -6,6 +6,7 @@ In this tutorial, we will build a RESTful API using the following technologies:
 - [Node.js](https://nodejs.org/) as our server platform.
 - [Express](http://expressjs.com/) to handle HTTP requests and responses.
 - [MongoDB](https://www.mongodb.com/) as our NoSQL database for storing user data.
+- [Mongoose](https://mongoosejs.com/) as our method to asscess database.
 - [Body-parser middleware](https://github.com/expressjs/body-parser "Body Parser Middleware") to parse JSON and URL encoded form data.
 
 Let's start by installing the required dependencies. Open your terminal or command prompt, navigate to your desired project directory, and run the following commands:
