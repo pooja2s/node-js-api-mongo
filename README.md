@@ -11,13 +11,13 @@ In this tutorial, we will build a RESTful API using the following technologies:
 
 Let's start by installing the required dependencies. Open your terminal or command prompt, navigate to your desired project directory, and run the following commands:
 
-npm init 
-npm install express nodemon --save 
-npm install mongoose --save 
-npm install mongodb --save 
-npm install dotenv --save 
-npm install body-parser --save 
-npm install cors --save
+- npm init 
+- npm install express nodemon --save 
+- npm install mongoose --save 
+- npm install mongodb --save 
+- npm install dotenv --save 
+- npm install body-parser --save 
+- npm install cors --save
 
 
 This will add Express, Body-Parser, and Mongoose to your project’s package.json file if it doesn’t already exist. If you are not familiar with npm (the Node Package Manager), I recommend checking out their website at http://npmjs.org/.
